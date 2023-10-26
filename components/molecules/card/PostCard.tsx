@@ -22,6 +22,7 @@ const PostCard = ({ title, description, date, slug, image }: Props) => {
          <figure>
             <Image
                src={image}
+               unoptimized={slug === '/mdx/(3)' ? true : false}
                alt="email"
                className={`rounded-xl`}
                width={360}
