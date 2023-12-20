@@ -27,7 +27,7 @@
     "eslint-config-next": "latest",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.288.0",
-    "next": "13.0.5",
+    "next": "^13.0.5",
     "next-mdx-remote": "^4.4.1",
     "next-themes": "^0.2.1",
     "react": "latest",
